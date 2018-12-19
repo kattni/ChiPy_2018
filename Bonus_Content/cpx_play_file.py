@@ -1,5 +1,5 @@
 # Press the buttons to play wav files.
-# REQUIRED LOADING coin.wav and eep.wav onto your CIRCUITPY drive
+# REQUIRES LOADING coin.wav and eep.wav onto your CIRCUITPY drive
 from adafruit_circuitplayground.express import cpx
 
 while True:

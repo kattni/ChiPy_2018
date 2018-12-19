@@ -1,5 +1,6 @@
 # Connect the potentiometer to A0 and the servo to A1.
 # Rotate the potentiometer knob to watch the servo rotate!
+# REQUIRES LOADING simpleio.mpy and adafruit_motor onto your CIRCUITPY drive
 import board
 import simpleio
 import analogio

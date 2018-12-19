@@ -1,5 +1,6 @@
 # Connect the potentiometer to A0 and the NeoPixel strip to A7.
 # Rotate the potentiometer knob and watch the number of pixels lit up change!
+# REQUIRES LOADING simpleio.mpy onto your CIRCUITPY drive
 import time
 import board
 import simpleio

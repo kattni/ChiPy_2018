@@ -1,4 +1,5 @@
 # Connect the potentiometer to A0 then rotate to see the number of pixels lit up change!
+# REQUIRES LOADING simpleio.mpy onto your CIRCUITPY drive
 import time
 import board
 from adafruit_circuitplayground.express import cpx
