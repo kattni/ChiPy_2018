@@ -11,6 +11,10 @@ Windows users may install Mu from [here](https://codewith.mu/en/download).
 
 Mac users may install Mu from [here](https://codewith.mu/en/download).
 
+Windows 7 and 8 users must the install drivers found in the
+[CircuitPython_Installer_Libraries_Drivers folder](https://github.com/kattni/ChiPy_2018/tree/master/CircuitPython_Installer_Libraries_Drivers)
+in this repo.
+
 ## To install Mu editor on Linux x86:
 Linux users must be running Python 3.6 or newer. Install by running `sudo apt install python3`.
 Then, install `pip3` by running `sudo apt install python3-pip`.
