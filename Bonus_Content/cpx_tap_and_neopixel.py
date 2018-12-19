@@ -1,3 +1,4 @@
+# Double-tap the Circuit Playground Express to move a pixel around the board!
 from adafruit_circuitplayground.express import cpx
 
 cpx.detect_taps = 2

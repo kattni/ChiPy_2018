@@ -1,3 +1,4 @@
+# Move your Circuit Playground Express around in every direction to see the LEDs change color.
 import time
 from adafruit_circuitplayground.express import cpx
 
